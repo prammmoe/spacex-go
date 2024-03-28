@@ -188,7 +188,7 @@
       "ship": {
         "description": {
           "title": "deskripsi",
-          "home_port": "Pelabuhan asal",
+          "home_port": "Bandara asal",
           "built_date": "Tanggal pembuatan",
           "landings_successful": "Pendaratan berhasil",
           "catches_successful": "Penangkapan berhasil"
@@ -400,11 +400,11 @@
       "dismiss": "TUTUP"
     },
     "email": {
-      "title": "Kirimi saya email",
+      "title": "Kirim saya email",
       "body": "Lapor bug atau minta fitur baru"
     },
     "translations": {
-      "title": "Translasi",
+      "title": "Terjemahan",
       "body": "Terima kasih kepada semua yang telah berkontribusi!"
     },
     "free_software": {
